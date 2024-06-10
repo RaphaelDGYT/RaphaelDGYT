@@ -1,7 +1,7 @@
 
 ### Olá, bem vindo ao meu perfil do GitHub!
 
-Eu me chamo Raphael Dantas, atualmente estou com 20 anos e estou cursando Ciência da computação na UNINOVE.
+Eu me chamo Raphael Dantas, atualmente estou com 20 anos e estou cursando Ciência da Computação na UNINOVE.
 
 ### Aqui estão minhas redes sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-dantas-4362b3230/)
