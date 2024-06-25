@@ -17,10 +17,8 @@ Eu me chamo Raphael Dantas, atualmente estou com 20 anos e estou cursando Ciênc
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 )]()
-[![Linguagem R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
 )]()
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
 
 Sou apaixonado pela área de inteligência artificial, sendo este meu principal foco. Tenho muitos planos para a minha carreira e em breve deixarei diversos projetos aqui nos quais estou trabalhando.
 
