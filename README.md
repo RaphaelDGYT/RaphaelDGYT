@@ -9,12 +9,13 @@ Eu me chamo Raphael Dantas, atualmente estou com 20 anos e estou cursando Ciênc
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/raphaeldgyt)
 
 ![RaphaelDGYT's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaeldgyt&show_icons=true&theme=cobalt)
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeldgyt&layout=compact&langs_count=16&theme=cobalt"/>
 
 ### Linguagens que estou estudando:
 
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
 [![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)]()
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)]()
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)]()
 
 
