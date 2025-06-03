@@ -9,7 +9,7 @@ Eu me chamo Raphael Dantas, atualmente estou com 20 anos e estou cursando Ciênc
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/raphaeldgyt)
 
 ![RaphaelDGYT's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaeldgyt&show_icons=true&theme=cobalt)
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeldgyt&layout=compact&langs_count=16&theme=cobalt"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeldgyt&layout=compact&langs_count=16&theme=cobalt"/>
 
 ### Linguagens que estou estudando:
 
